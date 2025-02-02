@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌌 Nuriddinov N. | Curious Engineer & ML Enthusiast<br><br>💡 Innovating at the intersection of technology, creativity, and problem-solving.<br><br>👨‍💻 About Me:<br><br>    🎓 Computer Engineering & Science student at INHA University in Tashkent.<br>    🚀 Passionate about Machine Learning, Algorithms, and Software Development.<br>    🎨 Former fine arts student with a creative approach to engineering challenges.<br>    🔥 Interested in open-source contributions, internships, and global IT opportunities
+🌌 Nuriddinov Nurmuhammad. | Curious Engineer & ML Enthusiast<br><br>💡 Innovating at the intersection of technology, creativity, and problem-solving.<br><br>👨‍💻 About Me:<br><br>    🎓 Computer Engineering & Science student at INHA University in Tashkent.<br>    🚀 Passionate about Machine Learning, Algorithms, and Software Development.<br>    🎨 Former fine arts student with a creative approach to engineering challenges.<br>    🔥 Interested in open-source contributions, internships, and global IT opportunities
 
 
 ## 🌐 Socials:
