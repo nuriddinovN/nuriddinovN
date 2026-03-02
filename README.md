@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pin.it/7zPMRXgBF" alt="Profile Banner" width="100%" />
+  <img src="https://www.pinterest.com/pin/1028650371193805293/" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
