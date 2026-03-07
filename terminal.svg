@@ -29,16 +29,16 @@
   <text x="20" y="190" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#484f58">❯</text>
   <text x="36" y="190" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">git log --oneline --my-story</text>
 
-  <text x="20" y="212" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950">  </text>
+  <text x="20" y="212" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950"> -- </text>
   <text x="90" y="212" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Started with Fine &amp; Decorative Arts 🎨</text>
 
-  <text x="20" y="230" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950">  </text>
+  <text x="20" y="230" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950"> -- </text>
   <text x="90" y="230" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Discovered the math behind visual perception</text>
 
-  <text x="20" y="248" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950">  </text>
+  <text x="20" y="248" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950"> -- </text>
   <text x="90" y="248" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Fell deep into Machine Learning 🕳️</text>
 
-  <text x="20" y="266" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950">  </text>
+  <text x="20" y="266" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950"> -- </text>
   <text x="90" y="266" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Building AI that understands the human mind 🧠</text>
 
   <!-- LINE 4: mission -->
