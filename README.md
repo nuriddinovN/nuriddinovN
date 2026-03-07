@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nurmuhammad ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, I'm Nurmuhammad 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+%26+Researcher;NLP+%7C+Computer+Vision+%7C+Cognitive+AI;Building+AI+for+Neuroscience+%26+Mental+Health;Where+Fine+Arts+meets+Deep+Learning+🎨🧠)](https://git.io/typing-svg)
 
