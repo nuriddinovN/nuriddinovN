@@ -1,112 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 500" width="740" height="500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420">
 
-  <!-- Window -->
-  <rect width="740" height="500" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+  <!-- Background -->
+  <rect width="700" height="420" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
 
   <!-- Title bar -->
-  <rect width="740" height="40" rx="12" fill="#161b22"/>
-  <rect y="28" width="740" height="12" fill="#161b22"/>
-  <rect y="40" width="740" height="1" fill="#21262d"/>
+  <rect width="700" height="38" rx="10" fill="#161b22"/>
+  <rect y="26" width="700" height="12" fill="#161b22"/>
+  <rect y="38" width="700" height="1" fill="#21262d"/>
+  <circle cx="20" cy="19" r="5" fill="#ff5f57"/>
+  <circle cx="38" cy="19" r="5" fill="#febc2e"/>
+  <circle cx="56" cy="19" r="5" fill="#28c840"/>
+  <text x="350" y="24" font-family="'SF Mono', Menlo, monospace" font-size="11" fill="#484f58" text-anchor="middle">nurmuhammad — zsh</text>
 
-  <!-- Traffic lights -->
-  <circle cx="22" cy="20" r="5.5" fill="#ff5f57"/>
-  <circle cx="42" cy="20" r="5.5" fill="#febc2e"/>
-  <circle cx="62" cy="20" r="5.5" fill="#28c840"/>
-  <text x="370" y="25" font-family="'SF Mono', Menlo, monospace" font-size="11" fill="#484f58" text-anchor="middle">nurmuhammad — zsh</text>
+  <!-- LINE 1: whoami -->
+  <text x="20" y="72" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#484f58">❯</text>
+  <text x="36" y="72" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">whoami</text>
 
-  <!-- ══ PROMPT 1: whoami ══ -->
-  <rect x="18" y="56" width="118" height="20" rx="3" fill="#1c2d3f"/>
-  <text x="28" y="70" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#58a6ff" font-weight="bold">~/nurmuhammad</text>
-  <rect x="138" y="56" width="58" height="20" rx="3" fill="#162314"/>
-  <text x="148" y="70" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#3fb950"> main ✔</text>
-  <text x="204" y="70" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">  ❯ </text>
-  <text x="238" y="70" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">whoami</text>
+  <text x="20" y="92" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Nurmuhammad  ·  CE Student &amp; AI/ML Researcher  ·  Uzbekistan 🌍</text>
 
-  <text x="28" y="92" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ╰─❯</text>
-  <text x="72" y="92" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3" font-weight="bold"> Nurmuhammad</text>
-  <text x="183" y="92" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ·  </text>
-  <text x="215" y="92" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff">CE Student &amp; AI/ML Researcher</text>
-  <text x="461" y="92" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ·  </text>
-  <text x="493" y="92" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#3fb950">Uzbekistan 🌍</text>
+  <!-- LINE 2: research -->
+  <text x="20" y="122" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#484f58">❯</text>
+  <text x="36" y="122" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">cat research.txt</text>
 
-  <!-- ══ PROMPT 2: research ══ -->
-  <rect x="18" y="114" width="118" height="20" rx="3" fill="#1c2d3f"/>
-  <text x="28" y="128" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#58a6ff" font-weight="bold">~/nurmuhammad</text>
-  <rect x="138" y="114" width="58" height="20" rx="3" fill="#162314"/>
-  <text x="148" y="128" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#3fb950"> main ✔</text>
-  <text x="204" y="128" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">  ❯ </text>
-  <text x="238" y="128" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">cat </text>
-  <text x="266" y="128" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff">research.txt</text>
+  <text x="20" y="142" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  NLP &amp; LLMs  ·  Computer Vision  ·  Cognitive AI  ·  Ethical ML</text>
+  <text x="20" y="160" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  AI for Neuroscience  ·  Mental Healthcare  ·  Affective Computing</text>
 
-  <text x="28" y="152" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ╰─❯</text>
-  <text x="72" y="152" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">NLP &amp; LLMs</text>
-  <text x="150" y="152" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ──  </text>
-  <text x="196" y="152" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">Computer Vision</text>
-  <text x="314" y="152" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ──  </text>
-  <text x="360" y="152" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">Cognitive AI</text>
-  <text x="456" y="152" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ──  </text>
-  <text x="502" y="152" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">Ethical ML</text>
+  <!-- LINE 3: git log -->
+  <text x="20" y="190" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#484f58">❯</text>
+  <text x="36" y="190" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">git log --oneline --my-story</text>
 
-  <text x="72" y="172" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff">AI for Neuroscience</text>
-  <text x="210" y="172" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ──  </text>
-  <text x="256" y="172" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff">Mental Healthcare</text>
-  <text x="388" y="172" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ──  </text>
-  <text x="434" y="172" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff">Affective Computing</text>
+  <text x="20" y="212" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950">  </text>
+  <text x="90" y="212" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Started with Fine &amp; Decorative Arts 🎨</text>
 
-  <!-- ══ PROMPT 3: git log ══ -->
-  <rect x="18" y="194" width="118" height="20" rx="3" fill="#1c2d3f"/>
-  <text x="28" y="208" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#58a6ff" font-weight="bold">~/nurmuhammad</text>
-  <rect x="138" y="194" width="58" height="20" rx="3" fill="#162314"/>
-  <text x="148" y="208" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#3fb950"> main ✔</text>
-  <text x="204" y="208" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">  ❯ </text>
-  <text x="238" y="208" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">git log </text>
-  <text x="290" y="208" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff">--my-story</text>
+  <text x="20" y="230" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950">  </text>
+  <text x="90" y="230" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Discovered the math behind visual perception</text>
 
-  <text x="28" y="234" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#3fb950">● a1b2c3f</text>
-  <text x="102" y="234" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  —  </text>
-  <text x="138" y="234" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">Started with Fine &amp; Decorative Arts 🎨</text>
+  <text x="20" y="248" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950">  </text>
+  <text x="90" y="248" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Fell deep into Machine Learning 🕳️</text>
 
-  <text x="28" y="256" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#3fb950">● d4e5f6a</text>
-  <text x="102" y="256" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  —  </text>
-  <text x="138" y="256" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">Discovered the math behind visual perception</text>
+  <text x="20" y="266" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#3fb950">  </text>
+  <text x="90" y="266" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Building AI that understands the human mind 🧠</text>
 
-  <text x="28" y="278" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#3fb950">● 7g8h9i0</text>
-  <text x="102" y="278" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  —  </text>
-  <text x="138" y="278" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">Fell deep into Machine Learning 🕳️</text>
+  <!-- LINE 4: mission -->
+  <text x="20" y="296" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#484f58">❯</text>
+  <text x="36" y="296" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">echo $CURRENT_MISSION</text>
 
-  <text x="28" y="300" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff" font-weight="bold">● b1c2d3e</text>
-  <text x="102" y="300" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  —  </text>
-  <text x="138" y="300" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff" font-weight="bold">Building AI that understands the human mind 🧠</text>
+  <text x="20" y="316" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  "Designing AI that improves human well-being —</text>
+  <text x="20" y="334" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">    where cognitive science meets deep learning."</text>
 
-  <!-- ══ PROMPT 4: mission ══ -->
-  <rect x="18" y="320" width="118" height="20" rx="3" fill="#1c2d3f"/>
-  <text x="28" y="334" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#58a6ff" font-weight="bold">~/nurmuhammad</text>
-  <rect x="138" y="320" width="58" height="20" rx="3" fill="#162314"/>
-  <text x="148" y="334" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#3fb950"> main ✔</text>
-  <text x="204" y="334" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">  ❯ </text>
-  <text x="238" y="334" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">echo </text>
-  <text x="278" y="334" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#3fb950">$CURRENT_MISSION</text>
+  <!-- LINE 5: open_to -->
+  <text x="20" y="364" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#484f58">❯</text>
+  <text x="36" y="364" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">cat open_to.txt</text>
 
-  <rect x="28" y="348" width="686" height="40" rx="5" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-  <text x="44" y="365" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">"Designing AI that improves human well-being —</text>
-  <text x="44" y="382" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">  where cognitive science meets deep learning."</text>
+  <text x="20" y="384" font-family="'SF Mono', Menlo, monospace" font-size="12.5" fill="#e6edf3">  Research Collaborations  ·  International Projects  ·  Internships</text>
 
-  <!-- ══ PROMPT 5: open_to ══ -->
-  <rect x="18" y="404" width="118" height="20" rx="3" fill="#1c2d3f"/>
-  <text x="28" y="418" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#58a6ff" font-weight="bold">~/nurmuhammad</text>
-  <rect x="138" y="404" width="58" height="20" rx="3" fill="#162314"/>
-  <text x="148" y="418" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#3fb950"> main ✔</text>
-  <text x="204" y="418" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#58a6ff" font-weight="bold">  ❯ </text>
-  <text x="238" y="418" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#e6edf3">cat </text>
-  <text x="266" y="418" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#58a6ff">open_to.txt</text>
-
-  <text x="28" y="450" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ╰─❯</text>
-  <text x="72" y="450" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#3fb950">Research Collaborations</text>
-  <text x="240" y="450" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ·  </text>
-  <text x="272" y="450" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#3fb950">International Projects</text>
-  <text x="432" y="450" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#484f58">  ·  </text>
-  <text x="464" y="450" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#3fb950">Internships</text>
-
-  <!-- blinking cursor -->
-  <rect x="550" y="438" width="7" height="14" rx="1" fill="#58a6ff" opacity="0.8"/>
+  <!-- cursor -->
+  <rect x="20" y="400" width="7" height="13" rx="1" fill="#58a6ff" opacity="0.8"/>
 </svg>
