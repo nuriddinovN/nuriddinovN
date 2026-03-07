@@ -16,11 +16,27 @@
 
 ## 🧠 About Me
 
-🎓 Computer Engineering student from **Uzbekistan** — trained in both **AI/ML** and **Fine & Decorative Arts**  
-🔬 Researching **AI applications in Cognitive Science, Neuroscience & Mental Healthcare**  
-🤝 Looking to collaborate on **research projects** at the intersection of AI and human well-being  
-🎨 My arts background sharpens how I approach **visual understanding & human-centered design** in AI  
-💬 Ask me about **Ethical AI, NLP, affective computing, or neurodiversity in tech**
+```bash
+$ whoami
+> Nurmuhammad — CE Student · AI/ML Researcher · Uzbekistan 🌍
+
+$ cat interests.txt
+> NLP & LLMs · Computer Vision · Cognitive AI · Ethical ML
+> AI for Neuroscience · Mental Healthcare · Affective Computing
+
+$ git log --oneline --my-story
+> a1b2c3f  Started with Fine & Decorative Arts 🎨
+> d4e5f6a  Discovered the math behind visual perception
+> 7g8h9i0  Fell deep into Machine Learning rabbit hole 🕳️
+> b1c2d3e  Now building AI that understands the human mind 🧠
+
+$ echo $CURRENT_MISSION
+> "Designing AI systems that improve human well-being —
+>  where cognitive science meets deep learning."
+
+$ cat open_to.txt
+> Research collaborations · International projects · Internships
+```
 
 ---
 
@@ -89,10 +105,21 @@
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Open to Collaborate!
 
-> Open to **research partnerships** in Cognitive AI · NLP · AI for Mental Health · Computer Vision
+<div align="center">
+
+Actively looking for **research collaborations** in:
+
+`Cognitive AI` · `AI in Mental Healthcare` · `Ethical NLP` · `Neuroscience + ML`
+
+If you're working at the intersection of **AI and human well-being** — let's connect! 🧠
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noormukhammad.official@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhkammad-nuriddinov-93a2b8294)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@noormukhammad)
+[![Email](https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:nuriddinov.official@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhkammad-nuriddinov-93a2b8294)
+[![Medium](https://img.shields.io/badge/Read_My_Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@noormukhammad)
+
+*🌍 Based in Uzbekistan · Open to remote research & international opportunities*
+
+</div>
