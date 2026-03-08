@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhkammad-nuriddinov-93a2b8294)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@noormukhammad)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noormukhammad.official@gmail.com)
-[![Yahoo]()](mailto:nuriddinov.official@yahoo.com)
+[![nuriddinov.official@yahoo.com](https://img.shields.io/badge/Yahoo_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:nuriddinov.official@yahoo.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=nuriddinovN&color=58a6ff&style=for-the-badge&label=Views)](https://github.com/nuriddinovN)
 
 </div>
